@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-safe-area-context] /home/gopalgohel/Desktop/myfirstProject/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-cardview] /home/gopalgohel/Desktop/myfirstProject/node_modules/react-native-cardview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /home/gopalgohel/Desktop/myfirstProject/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/gopalgohel/Desktop/myfirstProject/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/454b57c2d777af5b9fbe0c743dcaffbb/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/e9e51cf00d4ed3ad55ae5adac0f727fb/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1d036af431b74c427f9e20787b4a7435/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/be53147b5cd34903b0c5047b9179e678/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/f4867b0e2dc879985251d7f37c3aa8df/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/ce3a5088b89ee5eeedfde4f0935df822/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/4937ee40d897de3bdb3af953f6e13608/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/95af39c5da29401561c28b6c9567cca8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/cf6e80e0208c719a2f4e158c0cc7cbfb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/2f5a0c0d638f585fa9520348570234cf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1d4aead1a42b81acd41c48eb93e674b3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/b70cd83c4cc57f5f13d964fe274842a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/dc514c1c4270510cf5f6eb3ba75c2084/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/ad3fc3e30c178d82a8339691df96713a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/b40bb0b875b3c27dfd67beb7c98e8aff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/5d15dd9db110793501f42d55401116bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/25d6b3ac5cf9fe929102d5c3e8ff2b11/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/f87096c0204b861118f6bdbb9767f9f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/10533097b236f7ba261d2e076287f972/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/7c72891f49888f9d2abfba0b6911aa2e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1ee8578e064bb74722099d0cb66493d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/48e158d87923a2fe7ce6b9bc5c3396f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/b8be60e432c6bfaf092fd39faa47df75/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/495f201dc00fc94e3f81578cc76fd907/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/69f3f2a42f42e0bd80cf2e0143126b4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/7525149927bf2750310d146839aa7149/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/9a1ff38cd83d26587daf6e8eccfa2a52/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/aa4520efbe01566b927e4557804ac25f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/b8244a83313d4cdaa4fe0b681d58e926/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/c8924c1245617aa29886c72fd50bca56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1cf69ead5870fb9ea4a161d5db1574a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/e015a73fcd39dca31ff2b43be4cd26cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/79504477752b0e9e58d6b9354fdf0d65/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/59715e16ae1a8f628da8086b95564969/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/3b62039619ffbf2340df79d465e4f032/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1c36a9c0b11c7fddcf5c82a9ad0546a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/3552696541dbf9f2c836b1a4c5ea754b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/008a766fd044f98cb60007947af35b3a/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/454b57c2d777af5b9fbe0c743dcaffbb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/454b57c2d777af5b9fbe0c743dcaffbb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1d4aead1a42b81acd41c48eb93e674b3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1d4aead1a42b81acd41c48eb93e674b3/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/7525149927bf2750310d146839aa7149/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/7525149927bf2750310d146839aa7149/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/9a1ff38cd83d26587daf6e8eccfa2a52/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/9a1ff38cd83d26587daf6e8eccfa2a52/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/7525149927bf2750310d146839aa7149/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.myfirstproject.MainActivity
+ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-safe-area-context] /home/gopalgohel/Desktop/myfirstProject/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/gopalgohel/Desktop/myfirstProject/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-cardview] /home/gopalgohel/Desktop/myfirstProject/node_modules/react-native-cardview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-cardview] /home/gopalgohel/Desktop/myfirstProject/node_modules/react-native-cardview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/gopalgohel/Desktop/myfirstProject/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/gopalgohel/Desktop/myfirstProject/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/gopalgohel/Desktop/myfirstProject/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/gopalgohel/Desktop/myfirstProject/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/454b57c2d777af5b9fbe0c743dcaffbb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/454b57c2d777af5b9fbe0c743dcaffbb/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/e9e51cf00d4ed3ad55ae5adac0f727fb/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/e9e51cf00d4ed3ad55ae5adac0f727fb/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1d036af431b74c427f9e20787b4a7435/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1d036af431b74c427f9e20787b4a7435/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/be53147b5cd34903b0c5047b9179e678/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/be53147b5cd34903b0c5047b9179e678/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/f4867b0e2dc879985251d7f37c3aa8df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/f4867b0e2dc879985251d7f37c3aa8df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/ce3a5088b89ee5eeedfde4f0935df822/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/ce3a5088b89ee5eeedfde4f0935df822/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/4937ee40d897de3bdb3af953f6e13608/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/4937ee40d897de3bdb3af953f6e13608/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/95af39c5da29401561c28b6c9567cca8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/95af39c5da29401561c28b6c9567cca8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/cf6e80e0208c719a2f4e158c0cc7cbfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/cf6e80e0208c719a2f4e158c0cc7cbfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/2f5a0c0d638f585fa9520348570234cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/2f5a0c0d638f585fa9520348570234cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1d4aead1a42b81acd41c48eb93e674b3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1d4aead1a42b81acd41c48eb93e674b3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/b70cd83c4cc57f5f13d964fe274842a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/b70cd83c4cc57f5f13d964fe274842a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/dc514c1c4270510cf5f6eb3ba75c2084/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/dc514c1c4270510cf5f6eb3ba75c2084/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/ad3fc3e30c178d82a8339691df96713a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/ad3fc3e30c178d82a8339691df96713a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/b40bb0b875b3c27dfd67beb7c98e8aff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/b40bb0b875b3c27dfd67beb7c98e8aff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/5d15dd9db110793501f42d55401116bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/5d15dd9db110793501f42d55401116bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/25d6b3ac5cf9fe929102d5c3e8ff2b11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/25d6b3ac5cf9fe929102d5c3e8ff2b11/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/f87096c0204b861118f6bdbb9767f9f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/f87096c0204b861118f6bdbb9767f9f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/10533097b236f7ba261d2e076287f972/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/10533097b236f7ba261d2e076287f972/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/7c72891f49888f9d2abfba0b6911aa2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/7c72891f49888f9d2abfba0b6911aa2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1ee8578e064bb74722099d0cb66493d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1ee8578e064bb74722099d0cb66493d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/48e158d87923a2fe7ce6b9bc5c3396f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/48e158d87923a2fe7ce6b9bc5c3396f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/b8be60e432c6bfaf092fd39faa47df75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/b8be60e432c6bfaf092fd39faa47df75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/495f201dc00fc94e3f81578cc76fd907/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/495f201dc00fc94e3f81578cc76fd907/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/69f3f2a42f42e0bd80cf2e0143126b4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/69f3f2a42f42e0bd80cf2e0143126b4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/7525149927bf2750310d146839aa7149/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/7525149927bf2750310d146839aa7149/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/9a1ff38cd83d26587daf6e8eccfa2a52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/9a1ff38cd83d26587daf6e8eccfa2a52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/aa4520efbe01566b927e4557804ac25f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/aa4520efbe01566b927e4557804ac25f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/b8244a83313d4cdaa4fe0b681d58e926/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/b8244a83313d4cdaa4fe0b681d58e926/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/c8924c1245617aa29886c72fd50bca56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/c8924c1245617aa29886c72fd50bca56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1cf69ead5870fb9ea4a161d5db1574a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1cf69ead5870fb9ea4a161d5db1574a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/e015a73fcd39dca31ff2b43be4cd26cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/e015a73fcd39dca31ff2b43be4cd26cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/79504477752b0e9e58d6b9354fdf0d65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/79504477752b0e9e58d6b9354fdf0d65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/59715e16ae1a8f628da8086b95564969/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/59715e16ae1a8f628da8086b95564969/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/3b62039619ffbf2340df79d465e4f032/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/3b62039619ffbf2340df79d465e4f032/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1c36a9c0b11c7fddcf5c82a9ad0546a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/1c36a9c0b11c7fddcf5c82a9ad0546a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/3552696541dbf9f2c836b1a4c5ea754b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/3552696541dbf9f2c836b1a4c5ea754b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/008a766fd044f98cb60007947af35b3a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/gopalgohel/.gradle/caches/transforms-2/files-2.1/008a766fd044f98cb60007947af35b3a/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/gopalgohel/Desktop/myfirstProject/android/app/src/debug/AndroidManifest.xml:5:22-75
